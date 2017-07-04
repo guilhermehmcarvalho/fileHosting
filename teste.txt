@@ -1,2 +1,11 @@
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <h1 style="color: #5e9ca0;">You can edit <span style="color: #2b2301;">this demo</span> text!</h1>
+<p>&nbsp;</p>
+<ul>
+<li>a</li>
+<li>b</li>
+<li>c</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src="https://html-online.com/demo/social-share-buttons/social//reddit.svg" alt="" width="623" height="623" /></p>
